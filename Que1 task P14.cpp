@@ -41,5 +41,8 @@ int main()
    
     return 0;
 }
-
+/*
+    If you use base class pointer and evaluate p which have address of child class object and evaluate p->add(1,2) it will go to base class
+    if you dont want to access base class add() then virtual Keyword.
+*/
 
