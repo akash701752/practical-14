@@ -1,5 +1,5 @@
-/*  Practical 13 
-    Que 2 : WAP which illustrate complie and dynamic binding 
+/*  Practical 14
+    Que 1 : WAP which illustrate complie and dynamic binding 
     
     Task  : Create a base class pointer which holds address of child class
 */ 
